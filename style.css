@@ -2,13 +2,13 @@
   box-sizing: border-box;
 }
 
-/* html,
+html,
 body {
   padding: 1em;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
     Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-} */
+}
 .hero{
   background-image: url("images/Untitled-Artwork.png");
   background-repeat: no-repeat;
@@ -16,6 +16,9 @@ body {
   background-size: cover;
   /* background: #ffffff url("images/Untitled-Artwork.png") no-repeat center; // shorthand */
 color:#FE772D;
+margin: 50px;
+padding: 200px;
+justify-content: center;
 }
 button{
   padding: 16px 24px;
